@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi:latest
+FROM almalinux:9
 
 LABEL dev.containers.features="common"
 
